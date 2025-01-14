@@ -7,7 +7,7 @@ Preliminary Assignment for backend internships. Welcome! We are delighted to see
 ## Technologies available per location
 
 Technologies/roles available per location:
-* 🇫🇮: Kotlin, Python, Scala, Go (backend role), and Go (DevOps oriented role)
+* 🇫🇮: Kotlin, Python, Scala, Node.js + TypeScript, Go (backend role), and Go (DevOps oriented role)
 * 🇩🇪: Kotlin, Python, Scala, and Go (DevOps oriented role)
 * 🇸🇪: Kotlin
 * 🇯🇵: Kotlin
